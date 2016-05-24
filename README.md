@@ -20,12 +20,24 @@ By the end of this, developers should be able to:
 
 -   The goal is to explore something other than what we covered in class.
 -   Your topic must relate to software engineering in some way.
+-   Presentations should be about 15-20 minutes long, we'll have some time for
+    questions after you present.
 -   This is very open ended. Choose something you're interested in.
 
 ## Brainstorming Activity
 
+### Free association
+
 Let's free associate. Pick any topic to start with, and we'll generate as many
-topics as we can in 15 minutes.
+topics as we can in the allotted time.
+
+### Rubber Ducky Decision
+
+Take some time and talk with your rubber ducky. Explain to him or her the idea
+you chose and why you like it.  If you're having trouble deciding on an idea
+talk it our with Mr. or Ms. Ducky, or your fellow developers.
+
+
 
 ## Presentation Collateral
 
