@@ -16,6 +16,12 @@ By the end of this, developers should be able to:
 -   Prepare a talk on a new topic.
 -   Identify with confidence things known and things not yet known.
 
+## Guidelines
+
+-   The goal is to explore something other than what we covered in class.
+-   Your topic must relate to software engineering in some way.
+-   This is very open ended. Choose something you're interested in.
+
 ## Brainstorming Activity
 
 Let's free associate. Pick any topic to start with, and we'll generate as many
